@@ -21,4 +21,5 @@
 
 **Телеграм бот:** @nik20xll_bot
 
-**Видео демонстрация работы:** https://disk.yandex.ru/i/vRLcu2v5xj2hJg
+**Видео демонстрация работы:** https://disk.yandex.ru/d/r4E2ezzhjFtyEw
+
